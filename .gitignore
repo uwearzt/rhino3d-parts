@@ -1,1 +1,7 @@
-*.pdf
+*.stl
+*.3mf
+
+*.3dmbak
+*.rhl
+
+.DS_Store
