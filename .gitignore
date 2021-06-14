@@ -1,7 +1,14 @@
+# generated
 *.stl
 *.3mf
+*.pdf
+*.stp
+*.stpbak
+*.dxf
 
+# rhino 3d
 *.3dmbak
 *.rhl
 
+# macos
 .DS_Store
