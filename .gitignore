@@ -8,6 +8,7 @@
 *.stpbak
 *.dxf
 *.dxfbak
+*.lbrn2
 
 # rhino 3d
 *.3dmbak
